@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.jeeccm</groupId>
+	<artifactId>jeeccm-project</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<modules>
+		<module>modules</module>
+	</modules>
+	<name>JEECCM :: Project</name>
+	<packaging>pom</packaging>
+
+	<description>jeeccm is a common core modules application reference architecture. </description>
+	<url>https://gitee.com/xf717/jeeccm</url>
+	<inceptionYear>2018-2028</inceptionYear>
+	<organization>
+		<name>JEECCM</name>
+		<url>http://www.jeeccm.org.cn</url>
+	</organization>
+
+	<developers>
+		<developer>
+			<id>xf717</id>
+			<name>xf717</name>
+			<email></email>
+			<roles>
+				<role>Project leader</role>
+			</roles>
+			<timezone>+8</timezone>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
+		</license>
+	</licenses>
+
+
+
+    <issueManagement>
+        <system>GITEE</system>
+        <url>https://gitee.com/xf717/jeeccm/issues</url>
+    </issueManagement>
+
+
+</project>
