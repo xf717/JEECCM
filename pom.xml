@@ -6,7 +6,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>modules</module>
-	</modules>
+        <module>examples</module>
+    </modules>
 	<name>JEECCM :: Project</name>
 	<packaging>pom</packaging>
 

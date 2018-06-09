@@ -1,4 +1,4 @@
-package com.jeeccm;
+package com.jeeccm.modules.utils;
 
 /**
  * Hello world!
